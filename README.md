@@ -1,4 +1,4 @@
-# 💰 IT Salary Predictor — India 2025
+# 💰 IT Salary Predictor — India 2026
 
 A data-driven salary prediction web application built with Python and Streamlit 
 that estimates realistic salary ranges for IT professionals across major Indian cities.
