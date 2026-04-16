@@ -3,7 +3,7 @@
 A data-driven salary prediction web application built with Python and Streamlit 
 that estimates realistic salary ranges for IT professionals across major Indian cities.
 
-🔗 Live Demo: https://salarypredictt.streamlit.app/
+🔗 Live Demo:https://salaryprediction2026.streamlit.app/
 
 ---
 
