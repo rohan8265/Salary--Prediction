@@ -127,8 +127,8 @@ SKILLS_BONUS = {
 
 # Education multiplier
 EDUCATION_MULTIPLIER = {
-    "Below 12th":     0.80,
-    "12th / Diploma": 0.88,
+  #  "Below 12th":     0.80,
+   # "12th / Diploma": 0.88,
     "B.Tech / B.E.":  1.00,
     "BCA / BSc CS":   0.95,
     "MCA / MSc":      1.08,
